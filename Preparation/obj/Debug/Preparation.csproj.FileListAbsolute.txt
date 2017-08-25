@@ -1,0 +1,6 @@
+C:\Users\v-sharma\Google Drive\0 SM\Solutions\Preparation\Preparation\bin\Debug\Preparation.exe.config
+C:\Users\v-sharma\Google Drive\0 SM\Solutions\Preparation\Preparation\bin\Debug\Preparation.exe
+C:\Users\v-sharma\Google Drive\0 SM\Solutions\Preparation\Preparation\bin\Debug\Preparation.pdb
+C:\Users\v-sharma\Google Drive\0 SM\Solutions\Preparation\Preparation\obj\Debug\Preparation.csprojResolveAssemblyReference.cache
+C:\Users\v-sharma\Google Drive\0 SM\Solutions\Preparation\Preparation\obj\Debug\Preparation.exe
+C:\Users\v-sharma\Google Drive\0 SM\Solutions\Preparation\Preparation\obj\Debug\Preparation.pdb
